@@ -1,0 +1,20 @@
+# Dépendances
+/vendor/
+
+# Configuration locale
+/config/config.local.php
+/.env
+/.env.*
+
+# Copie complète de l'application (non versionnée)
+/upload/
+
+# Journaux
+*.log
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
